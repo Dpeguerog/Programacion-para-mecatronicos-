@@ -1,0 +1,20 @@
+C:\Users\raria\source\repos\prueba1\prueba1\bin\Debug\prueba1.exe.config
+C:\Users\raria\source\repos\prueba1\prueba1\bin\Debug\prueba1.exe
+C:\Users\raria\source\repos\prueba1\prueba1\bin\Debug\prueba1.pdb
+C:\Users\raria\source\repos\prueba1\prueba1\obj\Debug\prueba1.csproj.AssemblyReference.cache
+C:\Users\raria\source\repos\prueba1\prueba1\obj\Debug\prueba1.Properties.Resources.resources
+C:\Users\raria\source\repos\prueba1\prueba1\obj\Debug\prueba1.csproj.GenerateResource.cache
+C:\Users\raria\source\repos\prueba1\prueba1\obj\Debug\prueba1.csproj.CoreCompileInputs.cache
+C:\Users\raria\source\repos\prueba1\prueba1\obj\Debug\prueba1.exe
+C:\Users\raria\source\repos\prueba1\prueba1\obj\Debug\prueba1.pdb
+C:\Users\raria\source\repos\prueba1\prueba1\obj\Debug\prueba1.Calculadora.resources
+C:\Users\raria\source\repos\Lab 11\prueba1\bin\Debug\prueba1.exe.config
+C:\Users\raria\source\repos\Lab 11\prueba1\bin\Debug\prueba1.exe
+C:\Users\raria\source\repos\Lab 11\prueba1\bin\Debug\prueba1.pdb
+C:\Users\raria\source\repos\Lab 11\prueba1\obj\Debug\prueba1.csproj.AssemblyReference.cache
+C:\Users\raria\source\repos\Lab 11\prueba1\obj\Debug\prueba1.Calculadora.resources
+C:\Users\raria\source\repos\Lab 11\prueba1\obj\Debug\prueba1.Properties.Resources.resources
+C:\Users\raria\source\repos\Lab 11\prueba1\obj\Debug\prueba1.csproj.GenerateResource.cache
+C:\Users\raria\source\repos\Lab 11\prueba1\obj\Debug\prueba1.csproj.CoreCompileInputs.cache
+C:\Users\raria\source\repos\Lab 11\prueba1\obj\Debug\prueba1.exe
+C:\Users\raria\source\repos\Lab 11\prueba1\obj\Debug\prueba1.pdb
